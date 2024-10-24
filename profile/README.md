@@ -6,7 +6,7 @@
 
 Oi is an open-source CLI tool designed to streamline your coding process with automated code generation and project context management. Whether you're working solo or collaborating with teams, Oi makes it easy to enhance your productivity.
 
-![Oi Banner](https://github.com/oi-overide/oi-overide/blob/main/assets/banner.png) 
+![Oi Banner](https://github.com/oi-overide/.github/blob/main/assets/banner.png) 
 
 ## Ideas Behind Oi 💡
 
@@ -20,7 +20,7 @@ Oi was created with a vision to make code generation more accessible, flexible, 
 
 Here's a quick demo of Oi's features:
 
-![Oi Demo](https://github.com/oi-overide/oi-overide/blob/main/assets/oi-demo.gif)
+![Oi Demo](https://github.com/oi-overide/.github/blob/main/assets/oi-demo.gif)
 
 ## Join the Community 🌐
 

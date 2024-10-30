@@ -1,3 +1,4 @@
+# Installation
 ## Supported Platforms ##
 
 Oi is written in NodeJS which allows it to run on MacOS, Windows, or any distribution of Linux.

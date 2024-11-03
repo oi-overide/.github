@@ -13,7 +13,13 @@ Oi can be installed using `npm`  or  `brew`.
 To install using npm, run : 
 
 ```
-npm install -g oi
+npm install -g overide
+```
+
+To install using pnpm, run : 
+
+```
+pnpm install -g overide
 ```
 
 **** NOTE : brew install support will be added in version 1.0.0

@@ -2,9 +2,9 @@
 ### Command List 
 
 Oi supports the following basic commands.  
-###  Oi
+###  overide
 `oi` is the entry point for the CLI application. You can use it with or without the -h flag to see the list of commands. 
-### Oi init
+### overide init
 This initialises an directory as a project, it helps oi understand which sub-directories and files needs to be watched for prompts.
 
 **Supported Flags**
@@ -12,7 +12,7 @@ This initialises an directory as a project, it helps oi understand which sub-dir
 - `-n` or `--project-name` is used to define a custom name for the project in the `oi-config.json`
 - `-v` or `--verbose` this is used for capturing logs.
 
-### Oi config
+### overide config
 This allows the user to update the local and global config files. This can be used for adding ignore files, update project name in local config. It also has options to update the global config file.
 
 **Supported Flags**

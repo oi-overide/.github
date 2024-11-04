@@ -1,10 +1,19 @@
 # Prerequisites
 
-Before we begin to install Oi please make sure that you have one of the following package managers installed. 
+Before we begin to install Oi please make sure that you have one of the following package managers installed.
+
 #### NPM 
 
 You can follow this document to install NodeJS and NPM if you don't have it already.
 https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
+
+#### PNPM
+
+```
+npm install -g pnpm
+```
+
+Check the [PNPM documentation](#https://pnpm.io/installation) for details. 
 
 #### HomeBrew 
 
